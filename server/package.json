@@ -1,0 +1,28 @@
+{
+  "name": "react-webrtc-multicamscreenshare-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for WebRTC multi-camera and multi-screen sharing",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebSocket",
+    "WebRTC",
+    "MultiCam",
+    "ScreenShare",
+    "Server"
+  ],
+  "author": "Abhinay Raj <abhinayraj1226@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}
