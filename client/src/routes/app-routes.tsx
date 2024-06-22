@@ -8,7 +8,6 @@ const AppRoutes = () => {
     <Router>
       <Routes>
         <Route path="/" element={<Lobby />} />
-        // TODO:
         <Route path="/:id" element={<MainView />} />
       </Routes>
     </Router>
