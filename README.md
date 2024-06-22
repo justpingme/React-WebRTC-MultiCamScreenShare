@@ -1,4 +1,6 @@
-# React WebRTC Multi-Peer Connection with Multi Webcam and Multi Screen Share
+# React WebRTC Multi-Peer Connection with Multi Webcam and Multi Screen Share.
+
+Multi-peer connections with React WebRTC, featuring multiple webcams and screen sharing capabilities, along with chat functionalities, session leave and end options using RTC DataChannel.
 
 Here is a cool demonstration of the feature:
 
