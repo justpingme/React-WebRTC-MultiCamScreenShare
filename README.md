@@ -74,11 +74,15 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgements
+## Acknowledgements
 
 - **WebRTC**: Real-time communication protocol for peer-to-peer applications.
 - **React**: JavaScript library for building user interfaces.
 - **Socket.IO**: Real-time bidirectional event-based communication library.
 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 
