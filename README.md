@@ -1,5 +1,10 @@
 # React WebRTC Multi-Peer Connection with Multi Webcam and Multi Screen Share
 
+Here is a cool demonstration of the feature:
+
+[![Watch the video](https://img.youtube.com/vi/xUCPFq0HKDI/0.jpg)](https://www.youtube.com/watch?v=xUCPFq0HKDI)
+
+
 ## Overview
 
 This project is a React application built with TypeScript that utilizes WebRTC technology for establishing multi-peer connections. It includes features for multi-webcam streaming and multi-screen sharing using Socket.IO for real-time communication.
